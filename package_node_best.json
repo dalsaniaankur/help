@@ -98,6 +98,29 @@
     "tslint": "^5.12.1",
     "tslint-microsoft-contrib": "^6.0.0",
     "typescript": "^3.2.2"
-
+    
+    // Async.js
+    // Request – Simplified HTTP Client
+    // Browserify
+    // Grunt
+    // PM2
+    // Socket.IO
+    // Commander.js
+    // Mocha
+    // Bower
+    // Underscore
+    // UglifyJS2
+    // Cheerio
+    // Passport
+    // Nodemailer
+    // Hapi
+    // React
+    // Karma
+    // Pug
+    // Node MySQL
+    // LESS
+    // MongoDB Node.JS Driver
+    
+    
   }
 }
